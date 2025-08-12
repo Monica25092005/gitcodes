@@ -1,27 +1,3 @@
-        //coffee shop
-
-
-//  class Main {
-//     int coffee;
-//     int tea;  
-    
-//     void Service(){
-//         System.out.println(" coffee:"+coffee);
-//         System.out.println(" tea:"+tea);
-//     }
-// }
-// public class Class1{
-//     public static void main(String[] args)
-// {
-//   Main cls=new Main();
-//   cls.coffee=10;
-//   cls.tea=8;
-
-//   cls.Service();
-// }
-// }
-
-
 // Laptop
 
 
