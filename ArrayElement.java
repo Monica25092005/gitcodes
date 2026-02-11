@@ -1,10 +1,10 @@
-//STATIC ARRAY
-
-public class Array1 {
+public class ArrayElement {
     public static void main(String[] args) {
         int[] a={10,20,30,40};
+        int count=0;
         for(int i=0;i<a.length;i++){
-            System.out.println(a[i]);
+            count++;
         }
+        System.out.println("number of element:"+count);
     }
 }
